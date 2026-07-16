@@ -10,19 +10,19 @@ clase a clase con lo que vayamos produciendo entre todos.
 ## Cómo se organiza el seminario
 
 El seminario tiene una parte práctica: laboratorios y ejercicios donde vas a
-implementar vos IA a modo de ejemplo, También va haber un **trabajo final**, en el que implementarás un projecto de IA para "algo útil".
+implementar vos IA a modo de ejemplo. También va a haber un **trabajo final**, en el que implementarás un proyecto de IA para "algo útil".
 Por ejemplo: 
 
 * Implementar una LLM para generar datos para investigación (sobre IA)
 * Entrenar un modelo de Machine Learning para jugar un videojuego
-* Hacer un chatbot para fines específico
+* Hacer un chatbot para fines específicos
 
 > Si bien esta parte es técnica, no se requiere de conocimientos previos de programación para poder cursar.
 
-En paralelo habrá una serie de charlas en las que exporaremos la historia de IA y vemos ejemplos de su uso real asi como sus limitaciones teóricas y prácticas; y los desafíos con los que nos encontramos frente a estas tecnologías. 
+En paralelo habrá una serie de charlas en las que exploraremos la historia de IA y veremos ejemplos de su uso real así como sus limitaciones teóricas y prácticas; y los desafíos con los que nos encontramos frente a estas tecnologías. 
 Habrá disertantes invitados y algunas de las charlas serán en inglés.
 
-> El propósito de estas charlas es desarrollar un sentído crítico sobre qué es y qué no es la IA hoy en día. 
+> El propósito de estas charlas es desarrollar un sentido crítico sobre qué es y qué no es la IA hoy en día. 
 
 
 ### Evaluación
@@ -31,7 +31,7 @@ La materia es de promoción directa.
 
 La evaluación se basa en:  
 
-* 8-10 ejercicios prácticos que consistuyen el (50% de la nota)
+* 8-10 ejercicios prácticos, que constituyen el 50% de la nota
 * Trabajo final (50%)
 
 ## Información técnica y laboratorios

@@ -95,3 +95,10 @@ Desktop.ini
 .env.*
 *.local
 *.log
+
+# -----------------------------------------------------------------------------
+# Herramientas de IA (Claude Code / claude-mpm)
+# Configuración local de asistentes de IA; no forma parte del material del curso.
+# -----------------------------------------------------------------------------
+.claude/
+.claude-mpm/
