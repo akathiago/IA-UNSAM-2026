@@ -16,6 +16,7 @@ Por ejemplo:
 * Implementar una LLM para generar datos para investigación (sobre IA)
 * Entrenar un modelo de Machine Learning para jugar un videojuego
 * Hacer un chatbot para fines específicos
+* Crear un soporte lógico usando IA
 
 > Si bien esta parte es técnica, no se requiere de conocimientos previos de programación para poder cursar.
 
