@@ -7,6 +7,24 @@ todo el material del curso, las tareas y trabajos prácticos, y también los apo
 estudiante. La idea es que este repositorio se construya de forma colaborativa, creciendo
 clase a clase con lo que vayamos produciendo entre todos.
 
+## Cómo se organiza el seminario
+
+El seminario tiene una parte práctica: laboratorios y ejercicios donde vas a
+implementar vos mismo cosas de IA, hasta llegar a un **trabajo final**, que es una
+implementación de IA para algo que sirva de verdad.
+
+También va a haber una serie de charlas, algunas mías y otras de gente invitada.
+La idea es cubrir dos cosas: cómo se fue desarrollando la IA a lo largo del tiempo
+y cómo se está usando hoy en casos concretos (tenemos pensadas tres o cuatro de
+estas). Algunas van a ser en inglés. Esta parte del programa todavía está **a
+confirmar**.
+
+No nos vamos a quedar solo con los LLM: también vamos a ver aprendizaje por refuerzo
+y modelado predictivo en general, para entender un poco la teoría de cómo funcionan
+de verdad la IA y el machine learning. Y algo que me importa bastante: que salgas con
+sentido crítico, que aprendas a desconfiar de lo que produce la IA y a mirar más allá
+del hype para ver qué hay realmente.
+
 ## Entorno de trabajo (dev container)
 
 El repositorio incluye una definición de **dev container** (`.devcontainer/`) que
@@ -34,4 +52,4 @@ terminal lista para los laboratorios, sin instalación local y sin necesidad de 
 - [Laboratorio 1: LLM local con system prompt](./labs/lab-01-llm-system-prompt.md) — ejecutar un LLM local y darle una instrucción de sistema propia.
 - [Laboratorio 2: RAG con Ollama](./labs/lab-02-rag-ollama.md) — recuperación aumentada (RAG) sobre un modelo local.
 
-Se van a ir agregando más laboratorios a medida que avance el seminario.
+Se van a ir agregando más laboratorios a medida que avance el seminario (que todavía no empezó).
