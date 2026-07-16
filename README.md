@@ -10,46 +10,30 @@ clase a clase con lo que vayamos produciendo entre todos.
 ## Cómo se organiza el seminario
 
 El seminario tiene una parte práctica: laboratorios y ejercicios donde vas a
-implementar vos mismo cosas de IA, hasta llegar a un **trabajo final**, que es una
-implementación de IA para algo que sirva de verdad.
+implementar vos IA a modo de ejemplo, También va haber un **trabajo final**, en el que implementarás un projecto de IA para "algo útil".
+Por ejemplo: 
 
-También va a haber una serie de charlas, algunas mías y otras de gente invitada.
-La idea es cubrir dos cosas: cómo se fue desarrollando la IA a lo largo del tiempo
-y cómo se está usando hoy en casos concretos (tenemos pensadas tres o cuatro de
-estas). Algunas van a ser en inglés. Esta parte del programa todavía está **a
-confirmar**.
+* Implementar una LLM para generar datos para investigación (sobre IA)
+* Entrenar un modelo de Machine Learning para jugar un videojuego
+* Hacer un chatbot para fines específico
 
-No nos vamos a quedar solo con los LLM: también vamos a ver aprendizaje por refuerzo
-y modelado predictivo en general, para entender un poco la teoría de cómo funcionan
-de verdad la IA y el machine learning. Y algo que me importa bastante: que salgas con
-sentido crítico, que aprendas a desconfiar de lo que produce la IA y a mirar más allá
-del hype para ver qué hay realmente.
+> Si bien esta parte es técnica, no se requiere de conocimientos previos de programación para poder cursar.
 
-## Entorno de trabajo (dev container)
+En paralelo habrá una serie de charlas en las que exporaremos la historia de IA y vemos ejemplos de su uso real asi como sus limitaciones teóricas y prácticas; y los desafíos con los que nos encontramos frente a estas tecnologías. 
+Habrá disertantes invitados y algunas de las charlas serán en inglés.
 
-El repositorio incluye una definición de **dev container** (`.devcontainer/`) que
-arma automáticamente una máquina de trabajo lista para usar. Funciona con
-**GitHub Codespaces** y con **Dev Containers**, así que no tenés que instalar nada
-en tu propia computadora ni configurar tu entorno a mano.
+> El propósito de estas charlas es desarrollar un sentído crítico sobre qué es y qué no es la IA hoy en día. 
 
-El contenedor parte de una imagen de Python 3.12 y, al crearse, instala y deja
-todo listo:
 
-- **Ollama** ya instalado y corriendo en CPU, con su API expuesta en el puerto
-  **11434**.
-- El modelo de chat **qwen2.5:3b** y el modelo de embeddings **nomic-embed-text**
-  ya descargados.
-- Las dependencias de Python (`ollama`, `numpy`) preinstaladas.
+### Evaluación
 
-La forma más simple de empezar: en la página del repositorio en GitHub,
-**Code → Codespaces → Create codespace on main**. En un par de minutos tenés la
-terminal lista para los laboratorios, sin instalación local y sin necesidad de GPU.
+La materia es de promoción directa. 
 
-## Contenido
+La evaluación se basa en:  
 
-### Laboratorios
+* 8-10 ejercicios prácticos que consistuyen el (50% de la nota)
+* Trabajo final (50%)
 
-- [Laboratorio 1: LLM local con system prompt](./labs/lab-01-llm-system-prompt.md) — ejecutar un LLM local y darle una instrucción de sistema propia.
-- [Laboratorio 2: RAG con Ollama](./labs/lab-02-rag-ollama.md) — recuperación aumentada (RAG) sobre un modelo local.
+## Información técnica y laboratorios
 
-Se van a ir agregando más laboratorios a medida que avance el seminario (que todavía no empezó).
+Cómo preparar el entorno de trabajo y los laboratorios: [Información técnica y laboratorios](./informacion-tecnica-y-laboratorios.md).
