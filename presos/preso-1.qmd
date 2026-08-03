@@ -28,44 +28,43 @@ editor: visual
 - Disertantes invitados
   - Algunos en inglés
 - Experimentos con tecnologías existentes
-- Ejercicios y tareas prácticos  
+- Ejercicios y tareas prácticos\
 - Trabajo final práctico
 
 ## ¿Cómo se evalua?
 
-  - 50% ejercicios y tareas
-  - 50% trabajo final
-  
-  Se permite y se recomienda trabajo en grupo
-  
-  Se recomienda organización según interés 
-  
-  
+- 50% ejercicios y tareas
+- 50% trabajo final
+
+Se permite y se recomienda trabajo en grupo
+
+Se recomienda organización según interés
+
 ## Herramientas a usar
 
-Vamos a trabajar principalmente con herramientas de código abierto y de uso libre. Las principales son: 
+Vamos a trabajar principalmente con herramientas de código abierto y de uso libre. Las principales son:
 
-- Github 
+- Github
   - Git
   - Spaces
 - Hugging face
 - Kaggle
 
-## Primer ejercicio 
+## Primer ejercicio
 
 - Crear una cuenta de git
 - Hacer fork de este repositorio
 - Crear una carpeta con su nombre de pila en el repositorio
 - Crear un documento de Markdown dentro de la carpeta
 
-## Primer ejercicio 
+## Primer ejercicio
 
-- En el documento presentarse: 
+- En el documento presentarse:
+
   - Quien soy
   - Carrera que curso
   - En qué trabajo
   - Herramientas de IA que uso
   - Herramientas tecnológias que uso con frecuencia
-    
+
   Guardar el markdown en github y sincronizar (pull request)
-  
